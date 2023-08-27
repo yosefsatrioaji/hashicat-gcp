@@ -3,7 +3,7 @@
     "type":"vars",
     "attributes": {
       "key":"height",
-      "value":"ws-abHhc5xMLHoGzCq9",
+      "value":"600",
       "category":"terraform",
       "hcl":false,
       "sensitive":false
